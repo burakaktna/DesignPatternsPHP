@@ -41,3 +41,36 @@ Behavioral design patterns are concerned with communication between objects, enc
 - Visitor Pattern
 
 To learn more about PHP Design Patterns, you can visit our repository and explore the examples provided.
+
+## Getting Started
+
+To use this project, simply clone the repository and run it on your local machine.
+
+### Prerequisites
+
+To run this project, you will need to have PHP installed on your machine.
+
+### Installing
+
+1. Clone the repository to your local machine using `git clone <https://github.com/burakaktna/DesignPatternsPHP.git`>
+2. Navigate to the project directory using the command line or terminal
+3. Run `php Examples/{example-file-name}.php` to execute the example for the design pattern of your choice
+
+## Contributing
+
+If you would like to contribute to this project, please fork the repository and submit a pull request.
+
+## Authors
+
+- Muhammed Burak AKTUNA
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](http://license.md/) file for details.
+
+## Acknowledgments
+
+Thank you to the following resources for their guidance and inspiration:
+
+- Design Patterns: Elements of Reusable Object-Oriented Software by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+- Head First Design Patterns by Eric Freeman and Elisabeth Robson
